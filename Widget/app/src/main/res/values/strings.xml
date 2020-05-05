@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="text">Текст</string>
+    <string name="create">Создать</string>
+    <string name="blue">Синий</string>
+    <string name="green">Зеленый</string>
+    <string name="widget_text">Текст заметки</string>
+    <string name="red">Красный</string>
+</resources>
